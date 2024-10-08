@@ -1,0 +1,7 @@
+.hxkey
+.env.development
+.env.production
+.env
+.env.local
+
+/node_modules
